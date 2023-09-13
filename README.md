@@ -1,2 +1,3 @@
 # temp-aia
-Testing GitHub integratoin with Jira
+
+Testing GitHub integration with Jira
